@@ -1,10 +1,3 @@
-##
-## EPITECH PROJECT, 2021
-## Makefile
-## File description:
-## desc
-##
-
 SRC	=	src/main.c \
 		src/anexes.c \
 		src/palindrome.c \

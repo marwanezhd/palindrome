@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** main
-** File description:
-** desc
-*/
-
 #include "../include/palindrome.h"
 
 int main(int ac, char **av)

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** palindrome
-** File description:
-** desc
-*/
-
 #include "../include/palindrome.h"
 
 int palindrome(char const *str)

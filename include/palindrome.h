@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** palindrome
-** File description:
-** prototypes
-*/
-
 #include <unistd.h>
 #include <stdlib.h>
 

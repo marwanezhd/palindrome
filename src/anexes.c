@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2021
-** anexes
-** File description:
-** desc
-*/
-
 #include "../include/palindrome.h"
 
 void my_putchar(char c)
